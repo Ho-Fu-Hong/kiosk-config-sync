@@ -1,0 +1,7 @@
+# Kiosk CMS connection
+cms_base_url: https://kiosk-cms-int.venetianmacao.com/api
+cms_user: svc_kiosk_sync
+cms_password: SYNTHETIC-kQ4v8Lm2xR7tW9pZ
+sites:
+  - lobby
+  - retail-west
